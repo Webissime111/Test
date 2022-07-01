@@ -5,6 +5,10 @@ body {
   margin: 0;
 }
 
+p {
+  margin: 1em;
+}
+
 /* styles de l'entête */
 
 h1 {
