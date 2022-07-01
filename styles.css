@@ -5,4 +5,9 @@ body {
   margin: 0;
 }
 
-/* styles de la barre de navigation */
+/* styles de l'entête */
+
+h1 {
+  font-size: 2em;
+  color: blue;
+}
